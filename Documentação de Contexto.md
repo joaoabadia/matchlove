@@ -35,3 +35,11 @@ Em um mundo cada vez mais conectado digitalmente, a criação de um aplicativo d
 - **Evolução dos Padrões Sociais:** A dinâmica dos relacionamentos está em constante evolução. Um aplicativo de relacionamento acompanha essas mudanças, refletindo a forma como as pessoas se conectam e interagem na era digital. Ele permite que os usuários explorem novas maneiras de se relacionar, adaptando-se às tendências e preferências atuais.
 
 Em resumo, um aplicativo de relacionamento desempenha um papel importante em facilitar conexões sociais e emocionais em um mundo digitalizado. Ele oferece uma plataforma acessível e personalizada para que as pessoas possam encontrar relacionamentos significativos, ampliar horizontes e se conectar com outros indivíduos de maneira autêntica e inclusiva.
+
+
+# Público-alvo
+
+O público-alvo deste projeto são pessoas maiores de 18 anos que estão em busca de um relacionamento. 
+
+
+ 
