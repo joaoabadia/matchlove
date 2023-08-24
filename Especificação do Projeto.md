@@ -1,3 +1,4 @@
+
 #Especificação do projeto
 
 A identificação do problema e dos aspectos mais relevantes a serem abordados neste projeto foi realizada por meio de pesquisas e observação dos usuários. Para detalhar esses aspectos, foram utilizadas personas e histórias de usuários. 
@@ -58,3 +59,48 @@ A identificação do problema e dos aspectos mais relevantes a serem abordados n
 - **Motivações:** Deseja encontrar companhia para atividades sociais e viagens.
 - **Frustrações:** Falta de oportunidades de socialização na sua idade; busca por alguém que compartilhe seu amor pela vida.
 - **Hobbies, História:** Pintura, Dança de salão, Voluntariado em causas sociais.
+
+## Requisitos
+
+As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
+### Requisitos Funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-01| A plataforma deve apresentar na página principal uma seleção dinâmica de icones de perfis por meio dos cadastros realizados (canais) (API). | ALTA | 
+|RF-02| A plataforma deve apresentar, para cada usuário, uma imagem correspondente ào usuário,.  (thumbnail).   | MÉDIA |
+|RF-03| A plataforma deve permitir ao usuário visualizar informações interativas sobre outro usuário, como filme preferido, hobbies. (Nada de entrevista de emprego).  | MÉDIA |
+|RF-04| A plataforma deve oferecer um menu adicional que permita ao usuário visualizar publicações dos usuários sobre assuntos diversos, criando interesses sem precisar dar MATCH.      | MÉDIA |
+|RF-05| A plataforma deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar interesses mutuos,| ALTA |
+|RF-08| A plataforma deve permitir que os usuários salvem os perfis pesquisados, publicações de usuários, armazenando essas informações no armazenamento local do navegador.  | MÉDIA |
+|RF-09| A plataforma deve permitir verificar os usuários, como autenticação segura. | ALTA |
+|RF-10| A plataforma deve permitir que os usuários possam comentar sobre as publicações. | MÉDIA |
+
+
+
+
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-01 | A plataforma deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);  | ALTA | 
+|RNF-02 | A plataforma deverá ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
+|RNF-03 | A plataforma deve ter bom nível de contraste entre os elementos da tela em conformidade | MÉDIA|
+|RNF-04 | A plataforma deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA|
+
+
+
+### Restrições do Projeto
+
+Abaixo são apresentadas as restrições que limitam a execução do plano e que devem ser obedecidas para garantir o sucesso do projeto.
+
+| **ID**  | **Descrição**                                                                                   |
+|---------|-------------------------------------------------------------------------------------------------|
+| RE-01   | O projeto precisa ser finalizado dentro do prazo estabelecido, sem nenhum tipo de atraso.     |
+| RE-02   | A equipe encarregada do desenvolvimento do sistema deve ser o Grupo 3 da disciplina de Projeto: Desenvolvimento da aplicação Back-End. |
+| RE-03   | O sistema não tem permissão para ser utilizado por usuários com idade superior a 18 anos.    |
+| RE-04   | O sistema deve aderir estritamente às diretrizes da disciplina.                               |
+
+
+
