@@ -1,9 +1,8 @@
-
-#Especificação do projeto
+# Especificação do projeto
 
 A identificação do problema e dos aspectos mais relevantes a serem abordados neste projeto foi realizada por meio de pesquisas e observação dos usuários. Para detalhar esses aspectos, foram utilizadas personas e histórias de usuários. 
 
-##Personas
+## Personas
 
 ### Persona: Fernanda Silva
 
