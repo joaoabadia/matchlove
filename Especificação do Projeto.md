@@ -102,4 +102,42 @@ Abaixo são apresentadas as restrições que limitam a execução do plano e que
 | RE-04   | O sistema deve aderir estritamente às diretrizes da disciplina.                               |
 
 
+##  Casos de uso 
+
+## Persona: Fernanda Silva (55 anos, Servidora pública)
+
+1. **Encontrar amizades com interesses similares**: Fernanda utiliza o aplicativo de relacionamento para procurar outras mulheres com interesses em comum, visando construir amizades e se sentir menos sozinha.
+
+2. **Participar de grupos virtuais**: Fernanda se junta a grupos de discussão e atividades online no aplicativo, nos quais pode interagir com outras mulheres que também desejam encontrar companheiras, superando a aversão a aglomerações físicas.
+
+## Persona: Samuel Santos (22 anos, Estudante)
+
+1. **Conectar-se com colegas de faculdade**: Samuel usa o aplicativo para encontrar colegas de faculdade e se aproximar deles, compartilhando interesses acadêmicos e sociais.
+
+2. **Participar de comunidades de jogos online**: Samuel ingressa em comunidades de jogos no Discord, onde pode conversar com pessoas que compartilham sua paixão por jogos, superando sua dificuldade em iniciar conversas pessoais.
+
+## Persona: Lucas Mendes (18 anos, Estudante universitário)
+
+1. **Explorar perfis de interesse**: Lucas navega pelos perfis de outros estudantes universitários no aplicativo, procurando pessoas com interesses semelhantes para iniciar conversas e amizades.
+
+2. **Participar de eventos sociais universitários**: Lucas usa o aplicativo para descobrir eventos sociais fora do ambiente acadêmico, como encontros casuais e festas, onde ele pode conhecer novas pessoas e fazer amizades.
+
+## Persona: Sofia Almeida (27 anos, Enfermeira)
+
+1. **Conectar-se com colegas da área da saúde**: Sofia usa o aplicativo para encontrar outros profissionais de saúde e compartilhar experiências relacionadas ao trabalho, aproveitando para construir relacionamentos mais profundos.
+
+2. **Agendar encontros flexíveis**: Devido aos horários irregulares de trabalho, Sofia utiliza o aplicativo para encontrar pessoas que compreendem suas limitações de tempo e estão dispostas a marcar encontros em horários convenientes para ambos.
+
+## Persona: Rafael Pereira (38 anos, Professor)
+
+1. **Participar de grupos de discussão intelectual**: Rafael se junta a grupos no Twitter e Facebook focados em debates e discussões intelectuais, onde ele pode encontrar pessoas que compartilham sua paixão pela educação.
+
+2. **Agendar encontros baseados em livros**: Rafael utiliza o aplicativo para marcar encontros com potenciais parceiros interessados em discutir literatura e clássicos, criando oportunidades para conexões significativas.
+
+## Persona: Pedro Santos (75 anos, Aposentado)
+
+1. **Explorar eventos sociais para a terceira idade**: Pedro utiliza o aplicativo para descobrir eventos e grupos de interesse para pessoas mais velhas, como dança de salão e atividades de voluntariado.
+
+2. **Encontrar parceiros de viagem**: Pedro usa o aplicativo para conhecer pessoas que compartilham seu interesse por viagens e aventuras, permitindo-lhe encontrar companhia para explorar novos lugares.
+
 
